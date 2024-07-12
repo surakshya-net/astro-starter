@@ -1,5 +1,5 @@
 domains:
-- astro-starter-wasmerio.wasmer.app
+- blahblahblah.wasmer.app
 kind: wasmer.io/App.v0
 name: randomduck-astro-starter
 owner: randomduck
